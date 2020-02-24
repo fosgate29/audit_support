@@ -1,3 +1,11 @@
+# Before an audit
+
+https://media.consensys.net/preparing-for-a-smart-contract-code-audit-83691200cb9c
+
+https://diligence.consensys.net/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/
+
+https://pages.consensys.net/preparing-for-a-smart-contract-audit  **IT IS THE BEST TUTORIAL**
+
 # Audits reports
 
 https://github.com/ConsenSys/panvala-audit-report-2019-08
@@ -13,6 +21,12 @@ https://github.com/AugurProject/augur-audits
 https://github.com/ConsenSys/0x_audit_report_2018-07-23
 
 https://media.consensys.net/auditing-the-0x-protocol-v2-with-consensys-diligence-a52995407730
+
+# Tools
+
+https://consensys.github.io/smart-contract-best-practices/security_tools/
+
+https://github.com/fosgate29/awesome-mythx-smart-contract-security-tools
 
 
 # Good Smart Contracts
