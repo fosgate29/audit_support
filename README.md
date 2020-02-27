@@ -8,6 +8,8 @@ https://pages.consensys.net/preparing-for-a-smart-contract-audit  **IT IS THE BE
 
 # Audits reports
 
+https://blog.openzeppelin.com/solo-margin-protocol-audit-30ac2aaf6b10/
+
 https://github.com/ConsenSys/panvala-audit-report-2019-08
 
 https://github.com/ConsenSys/uport-audit
