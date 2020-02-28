@@ -30,6 +30,8 @@ https://consensys.github.io/smart-contract-best-practices/security_tools/
 
 https://github.com/fosgate29/awesome-mythx-smart-contract-security-tools
 
+https://github.com/crytic/solc-select (select a specific solidity version to compile a code)
+
 
 # Good Smart Contracts
 FOAM Sale: https://etherscan.io/address/0x3ce3b6d9372a4d761172a89cf0139129309fa0ae#code
