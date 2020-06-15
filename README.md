@@ -4,6 +4,8 @@ https://media.consensys.net/preparing-for-a-smart-contract-code-audit-83691200cb
 
 https://diligence.consensys.net/blog/2019/09/how-to-prepare-for-a-smart-contract-audit/
 
+https://blog.trailofbits.com/2020/06/12/upgradeable-contracts-made-safer-with-crytic/
+
 https://pages.consensys.net/preparing-for-a-smart-contract-audit  **IT IS THE BEST TUTORIAL**
 
 # Audits reports
